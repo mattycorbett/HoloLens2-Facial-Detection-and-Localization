@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FacialDetection.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 4794471d0bb49a64ca328bc5694191d1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ea7ff34095c3b7a4eb378124ce4a35da, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cb32865a1a0ee3e46a46f2f4fbe67619, type: 2}
