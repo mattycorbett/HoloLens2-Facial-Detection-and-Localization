@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "com.microsoft.azure.spatial-anchors-sdk.core": "file:MixedReality/com.microsoft.azure.spatial-anchors-sdk.core-2.12.0.tgz",
-    "com.microsoft.azure.spatial-anchors-sdk.windows": "file:MixedReality/com.microsoft.azure.spatial-anchors-sdk.windows-2.12.0.tgz",
     "com.microsoft.mixedreality.movingplatform": "file:MixedReality/com.microsoft.mixedreality.movingplatform-0.0.3.tgz",
     "com.microsoft.mixedreality.openxr": "file:MixedReality/com.microsoft.mixedreality.openxr-1.4.2.tgz",
     "com.microsoft.mixedreality.powerthermalnotification": "file:MixedReality/com.microsoft.mixedreality.powerthermalnotification-0.2.1.tgz",
